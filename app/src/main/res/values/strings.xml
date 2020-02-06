@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Numeros aleatorios</string>
+    <string name="botaoJogar">Gerar</string>
+</resources>
